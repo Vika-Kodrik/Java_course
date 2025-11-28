@@ -1,4 +1,4 @@
-package task_1785;
+package Timus.task_1785;
 
 import java.util.Scanner;
 
@@ -17,7 +17,7 @@ public class Main {
         } else if (numb >= 20 && numb <= 49) {
             System.out.print("lots");
         } else if (numb >= 50 && numb <= 99) {
-                System.out.print("horde");
+            System.out.print("horde");
         } else if (numb >= 100 && numb <= 249) {
             System.out.print("throng");
         } else if (numb >= 250 && numb <= 499) {

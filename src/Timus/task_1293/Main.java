@@ -1,4 +1,4 @@
-package task_1293;
+package Timus.task_1293;
 
 import java.io.PrintWriter;
 import java.util.Scanner;
@@ -16,6 +16,5 @@ public class Main {
 
         out.println(result);
         out.flush();
-
     }
 }

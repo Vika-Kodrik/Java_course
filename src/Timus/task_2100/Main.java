@@ -1,4 +1,4 @@
-package task_2100;
+package Timus.task_2100;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -8,7 +8,7 @@ import java.io.InputStreamReader;
 public class Main {
     public static void main(String[] args) {
 
-        String inputFileName = "src/task_2100/input.txt";
+        String inputFileName = "src/Timus/task_2100/input.txt";
         boolean oj = System.getProperty("ONLINE_JUDGE") != null;
 
         int newlyweds = 2;

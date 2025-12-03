@@ -18,11 +18,6 @@ public class Example10 {
         Arrays.sort(ints,Collections.reverseOrder());
 
         System.out.println(Arrays.toString(ints));
-
-
-
-
-
     }
 }
 

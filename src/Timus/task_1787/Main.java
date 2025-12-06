@@ -1,0 +1,23 @@
+package Timus.task_1787;
+
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        int k, n;
+        Scanner in = new Scanner(System.in);
+        k = in.nextInt();
+        n = in.nextInt();
+
+        int left = 0;
+
+        for (int i = 1; i <= n; i++) {
+            int x = in.nextInt();
+            left = left + x - k;
+            if (left < 0) {
+                left = 0;
+            }
+        }
+        System.out.println(left);
+    }
+}

@@ -1,7 +1,5 @@
 package lr7.Example3;
 
-import lr7.Example3.SuperClass;
-
 public class Main {
     public static void main(String[] args) {
         SuperClass superClassObj = new SuperClass(1);

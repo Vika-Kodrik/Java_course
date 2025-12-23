@@ -8,8 +8,10 @@ public class Main {
         BufferedWriter bw = null;
         try {
             // Создание потоков для чтения и записи с нужной кодировкой
-            br = new BufferedReader(new InputStreamReader(new FileInputStream("src/lr8/task_1/text.txt"), "cp1251"));
-            bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("src/lr8/task_1/Example9/text.txt"), "cp1251"));
+            br = new BufferedReader(new InputStreamReader
+                    (new FileInputStream("src/lr8/task_1/text.txt"), "cp1251"));
+            bw = new BufferedWriter(new OutputStreamWriter
+                    (new FileOutputStream("src/lr8/task_1/Example9/text.txt"), "cp1251"));
 
             // Переписывание информации из одного файла в другой
             int lineCount = 0; // счетчик строк

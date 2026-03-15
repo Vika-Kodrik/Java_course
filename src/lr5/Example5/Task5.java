@@ -4,7 +4,7 @@ public class Task5 {
     private int intField;
 
     public Task5() {
-        this.intField = 0;
+        //       this.intField = 0;
     }
 
     public Task5 (int value) {

@@ -5,14 +5,14 @@ public class Task4 {
     public int intField;
 
     public Task4(char symbol, int code) {
-        this.charField = symbol;
-        this.intField = code;
+        charField = symbol;
+         intField = code;
     }
 
     public Task4(double value) {
-        this.charField = (char) ((int) value);
+        charField = (char) ((int) value);
         double fractional = value - (int) value;
-        this.intField = (int) (fractional * 100);
+        intField = (int) (fractional * 100);
     }
 
     public char getCharField() {

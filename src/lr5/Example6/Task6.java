@@ -14,7 +14,7 @@ public class Task6 {
             return;
         }
 
-        if (!initialized) {
+        if (!initialized) { // первый запуск
             min = args[0];
             max = args[0];
             initialized = true;

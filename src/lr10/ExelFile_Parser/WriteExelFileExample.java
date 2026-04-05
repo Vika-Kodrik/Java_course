@@ -1,6 +1,5 @@
 package lr10.ExelFile_Parser;
 
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
@@ -40,8 +39,5 @@ public class WriteExelFileExample {
         } catch (IOException ex) {
             ex.printStackTrace();
         }
-
-
-
     }
 }

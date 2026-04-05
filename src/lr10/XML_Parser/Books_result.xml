@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><Library>
+        
+    <book>
+                
+        <title>Горе от ума</title>
+                
+        <author>А. С. Грибоедов</author>
+                
+        <year>1825</year>
+            
+    </book>
+        
+    <book>
+                
+        <title>Руслан и Людмила</title>
+                
+        <author>А. С. Пушкин</author>
+                
+        <year>1820</year>
+            
+    </book>
+        
+    <book>
+                
+        <title>Герой нашего времени</title>
+                
+        <author>М. Ю. Лермонтов</author>
+                
+        <year>1840</year>
+            
+    </book>
+        
+    <book>
+                
+        <title>Мёртвые души</title>
+                
+        <author>Н. В. Гоголь</author>
+                
+        <year>1842</year>
+            
+    </book>
+        
+    <book>
+                
+        <title>Бедные люди</title>
+                
+        <author>Ф. М. Достоевский</author>
+                
+        <year>1845</year>
+            
+    </book>
+        
+    <book>
+                
+        <title>Обломов</title>
+                
+        <author>И. А. Гончаров</author>
+                
+        <year>1859</year>
+            
+    </book>
+        
+    <book>
+                
+        <title>Война и мир</title>
+                
+        <author>Л. Н. Толстой</author>
+                
+        <year>1869</year>
+            
+    </book>
+        
+</Library>
